@@ -1,3 +1,4 @@
+//animator: ^2.0.1
 import 'package:flutter/material.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:animator/animator.dart';
