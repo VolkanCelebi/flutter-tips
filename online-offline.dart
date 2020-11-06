@@ -1,3 +1,4 @@
+//connectivity_widget: ^0.1.7
 import 'package:flutter/material.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:connectivity_widget/connectivity_widget.dart';
